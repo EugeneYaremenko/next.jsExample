@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 // icon
-import notFoundSVG from "../assets/icons/404.svg";
+import notFoundSVG from "../public/icons/404.svg";
 
 const Error = () => {
   return (
